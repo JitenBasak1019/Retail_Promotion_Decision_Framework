@@ -1,0 +1,5 @@
+Targeting Strategy,Households Targeted,Campaign Cost ($),Expected Redemptions,Conversion Rate (%),Net Profit ($),ROI (%),Profit Lift vs Mass ($)
+"1. Mass Marketing (All 2,500 HHs)",2500,7500.0,600.0,24.0,-1641.71,-21.9,0.0
+2. Segment Rule (RFM Champions),226,678.0,141.1,62.4,593.75,87.6,2235.46
+3. Top Historical Spenders (500 HHs),500,1500.0,302.7,60.5,1839.42,122.6,3481.13
+4. ML Expected Value (Top 500 HHs),500,1500.0,386.6,77.3,2922.13,194.8,4563.84

@@ -1,0 +1,22 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Raw Datasets (>100MB exceeds GitHub hard limit)
+Data/Raw/causal_data.csv
+Data/Raw/transaction_data.csv
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
